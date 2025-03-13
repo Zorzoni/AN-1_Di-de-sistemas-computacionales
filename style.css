@@ -9,7 +9,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("fondo.jpeg");
+  background-color: rgb( 107, 107,107);
 }
 
 #calculadora table{
